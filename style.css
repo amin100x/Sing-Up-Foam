@@ -51,6 +51,10 @@ input
     border: 1px solid rgb(211, 211, 211);
     padding: 5px;
 }
+input::placeholder
+{
+    color: #91949b;
+}
 input:focus
 {
    outline: none; 
